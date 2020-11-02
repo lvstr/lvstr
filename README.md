@@ -10,7 +10,7 @@
 
 ## <h3 align="left">Playing Music:</h3>
 
-&nbsp; <br> ![Spotify](https://spotify-seven-rho.vercel.app/api/spotify)
+&nbsp; ![Spotify](https://spotify-seven-rho.vercel.app/api/spotify)
   
 ## <h3 align="left">Reach with me via:</h3>
 
