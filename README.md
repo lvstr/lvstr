@@ -1,16 +1,19 @@
 <h1 align="center">Hi there, I'm Rand <img src="https://raw.githubusercontent.com/sProDev/sProDev/master/images/wave.gif" width="30px"></h1>
 
-## **Personal Stuffs:**
+
+
+**Personal Stuffs:**
 - 🔭 I’m currently working on **Scholarship Project**
 - 🌱 I’m currently learning **Front End Web Development**
 - ✨ I'm Interested in **Fullstack Dev things**
 - ⚡ I like **Music** and **Chocolate Milk**
 
-
+<br>
 
 ## <h3 align="left">Playing Music:</h3>
 
 &nbsp; ![Spotify](https://spotify-seven-rho.vercel.app/api/spotify)
+<br>
   
 ## <h3 align="left">Reach with me via:</h3>
 
