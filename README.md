@@ -5,7 +5,7 @@
 **Personal Stuffs:**
 - 🔭 I’m currently working on **Scholarship Project**
 - 🌱 I’m currently learning **Front End Web Development**
-- ✨ I'm Interested in **Fullstack Dev things**
+- ✨ I'm Interested in **Nothing lol**
 - ⚡ I like **Music** and **Chocolate Milk**
 
 <br>
