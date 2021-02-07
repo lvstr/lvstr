@@ -29,6 +29,9 @@
 
 ## <h3 align="left">&#x1f4c8; GitHub Stats</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lvstr&show_icons=true&locale=en&layout=compact" alt="lvstr" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=lvstr&show_icons=true&locale=en" alt="lvstr" /></p>
+<a href="https://github.com/lvstr">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lvstr&layout=compact&hide_border=true" />
+</a>
+<a href="https://github.com/lvstr">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lvstr&count_private=true&show_icons=true&hide_border=true&custom_title=My%20Github%20Stats&include_all_commits=true&hide=issues" alt="lvstr's GitHub Stats" />
+</a>
