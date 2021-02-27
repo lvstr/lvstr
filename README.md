@@ -17,9 +17,10 @@
   
 ## <h3 align="left">Reach with me via:</h3>
 
-<p align="left">
-<a href="https://twitter.com/lvstr__" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="lvstr__" height="30" width="40"/></a>
-<a href="https://fb.com/lvstr1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="lvstr1" height="30"width="40"/></a 
+[![Facebook](https://img.shields.io/badge/Facebook-%234267B2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/lvstr)
+[![Telegram](https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/lvstrr)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/lvstr_)
+[![Twitter](https://img.shields.io/badge/Twitter-00ACEE?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/lvstr__)
   <br>
 
 ## <h3 align="left">🔧 Technologies & Tools:</h3>
