@@ -12,7 +12,7 @@
 
 ## <h3 align="left">Playing Music:</h3>
 
-&nbsp; [![Spotify](https://spotify-seven-rho.vercel.app/api/spotify)](https://open.spotify.com/user/sikhtank27)
+&nbsp; [![Spotify](https://spotify-psi-beryl.vercel.app/api/spotify)](https://open.spotify.com/user/s92qz162zs116umncqf6udw94)
 <br>
   
 ## <h3 align="left">Reach with me via:</h3>
